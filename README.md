@@ -10,6 +10,8 @@ kitweb runs in a terminal that supports the Kitty graphics protocol:
 
 [![demo]](https://github.com/user-attachments/assets/5e281a50-c9d1-46ec-b0a2-b90fc6f5de21)
 
+[longer version(1:21)](https://youtu.be/4gXUf2f0F5w?si=zx8OURgsqvzqGsPi) at youtube.
+
 ## Installation
 
 ```
