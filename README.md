@@ -1,20 +1,19 @@
 # kitweb
 
-**A real web browser, rendered inside your terminal.**
+**A real web browser, inside your terminal.**
 
 kitweb runs in a terminal that supports the Kitty graphics protocol:
-- [Ghostty](https://ghostty.org/)
-- [Kitty](https://sw.kovidgoyal.net/kitty/)
-- [WezTerm](https://wezterm.net/)
-- [cmux](https://github.com/manaflow-ai/cmux)
+[Ghostty](https://ghostty.org/)
+[Kitty](https://sw.kovidgoyal.net/kitty/)
+[WezTerm](https://wezterm.net/)
+[cmux](https://github.com/manaflow-ai/cmux)
+
+[![demo]](https://github.com/user-attachments/assets/5e281a50-c9d1-46ec-b0a2-b90fc6f5de21)
 
 ## Installation
 
 ```
 cargo install kitweb
-```
-
-```
 ```
 
 Make sure these are installed:
